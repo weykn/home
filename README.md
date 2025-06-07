@@ -1,7 +1,3 @@
-Here's an updated version of your README with polished formatting, improved clarity, and a direct link to the live demo:
-
----
-
 # 🏠 Custom Home
 
 A fully customizable, modern new tab or homepage built with **vanilla HTML, CSS, and JavaScript** — no frameworks, no servers, just fast and simple.
